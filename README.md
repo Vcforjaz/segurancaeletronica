@@ -2,4 +2,4 @@
 
 ## CFTV, Controle de acesso, Alarmes, Automação, Motores, Interfones, Segurança Eletrônica em geral...
 
-Postarei nesse repositório algumas fotos de instalações e projetos que eu for fazendo.
+Postarei nesse repositório algumas fotos de instalações e projetos que faço
